@@ -1,5 +1,1 @@
-# UAS-BDA
-
-PRAMUDYA KH
-
-20/460558/TK/51147
+# Analysis of ARIMA and Exponential Smoothing for Time Series Forecasting in the SEKI Stock Exchange
